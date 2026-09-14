@@ -200,15 +200,15 @@ The dashboard was designed to answer questions such as:
 
 ### Main Dashboard
 
-![Election Dashboard](images/dashboard.png)
+
 
 ### Party Analysis
 
-![Party Analysis](images/party-analysis.png)
+
 
 ### State-wise Analysis
 
-![State Analysis](images/state-analysis.png)
+
 
 ---
 
