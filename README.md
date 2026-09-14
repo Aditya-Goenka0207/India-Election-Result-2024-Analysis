@@ -1,4 +1,4 @@
-# 🇮🇳 India Election Result 2024 Analysis
+# India Election Result 2024 Analysis
 
 ## 📊 Project Overview
 
